@@ -1,36 +1,3 @@
-# Welcome to the interview resources (footsteps) by FnPlus Community to crack your dream company :octocat:
-
-<p align="center">
-<img src="https://i.imgur.com/vQ1tm2w.gif" width="600" height="600" center="true" />
-</p>
-
-This repository is a part of [HacktoberFest-an event organised by DigitalOcean](https://hacktoberfest.digitalocean.com/). 
-You are requested to create your profile using the above link to be a part of it.
-
-This repository contains examples of various algorithms written on different programming languages...
-
-## Contributors
-
-[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/0)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/0)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/1)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/1)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/2)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/2)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/3)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/3)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/4)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/4)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/5)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/5)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/6)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/6)[![](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/images/7)](https://sourcerer.io/fame/xlogix/fnplus/interview-techdev-guide/links/7)(https://github.com/divyhshah)
-
-## Contributing
-
-1. Have a look at open issues. They contain the list of algorithms/DS we plan
-to be implemented. Pick an unassigned issue.
-2. You can also create a new issue for an algorithm that is not in the list.
-3. **Make sure you are assigned for the issue.**
-4. Fork the repo!
-5. Clone the forked repository to local system.
-6. Create your feature branch: `git checkout -b my-new-feature`
-7. Be sure to not include any compiled binaries in the patch.
-8. Commit your changes: `git commit -am 'Add some feature'`.
-   Go through [Commit Messages guidelines](CONTRIBUTING.md#write-good-commit-messages)
-9. Push to the branch: `git push origin my-new-feature`
-While sending a PR make sure you follow one issue per PR rule.
-10. Submit a pull request :smile:
-
-See [Extended Contributing Guidelines](https://github.com/fnplus/interview-techdev-guide/issues/151)
-
 ## Important Data Structures
 
 | Data Structure                                                                                  | C         | CPP       | Java      | Python    |
@@ -191,10 +158,6 @@ See [Extended Contributing Guidelines](https://github.com/fnplus/interview-techd
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
 
-### Computer Science News:
-
-* [Hacker News](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
 
 ## Sample Run:
 
@@ -205,19 +168,3 @@ See [Extended Contributing Guidelines](https://github.com/fnplus/interview-techd
 | CPP      | <pre>g++ [filename.cpp]<br>./a.out # unix<br>a.exe # windows</pre> |
 | Java     | <pre>javac [filename.java]<br>java [filename]</pre>                |
 | Golang   | <pre>go build [filename.go]<br>[./filename]</pre>                  |
-
-## Support:
-
-Feel free to contact us at our [E-mail](mailto:support@fnplus.tech), we'd be happy to help!
-Check out our app called [footsteps](https://footsteps.dev) which helps you keep a log of your online learning and inspire others to follow it!
-
-## Notes:
-
-Only project maintainers should merge a PR.
-Other members can add their reviews to a PR but the merging should be done by only a project maintainer.
-
-## Authors:
-
-* [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
-* [Abhishek Kumar](https://www.abhishekkumar.dev)
-* [Abhishek Uniyal](https://github.com/xlogix)
